@@ -17,6 +17,15 @@
           }
         }
       },
+      "desctitle": {
+        "type": "string",
+        "title": "Description",
+        "cordra": {
+          "preview": {
+            "showInPreview": "true"
+          }
+        }
+      },
       "instituteId": {
         "type": "string",
         "cordra": {
